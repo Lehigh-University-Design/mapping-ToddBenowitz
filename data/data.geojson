@@ -7,6 +7,7 @@
         "Description": "<p>The Olmec people were an ancient civilization believed to be the first to use cacao beans. Olmec pots called \"tecomates\" that date back to around 1500 BCE, were found to have traces of theobromine, a compound commonly found in chocolate.</p>",
         "Image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/316302/652249/main-image",
         "Image Credit": "",
+        "Graph": "MontezumaGraph-01.png",
         "Zoom": "1"
       },
       "geometry": {
@@ -24,7 +25,8 @@
         "Title": "Tikal",
         "Description": "<p>Mayans were an ancient civilization that used chocolate during important celebrations, transactions, and ceremonies. Almost all Mayans enjoyed chocolate with their meals, combining it with chili peppers, honey, or water. They'd drink it hot or cold, either way it was caffeniated.</p> ",
         "Image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cacao-moneda.jpg",
-        "Image Credit": "Tamorlan from WikiMedia"
+        "Image Credit": "Tamorlan from WikiMedia",
+        "Graph": "CostofThings-03.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -41,7 +43,8 @@
         "Title": "Tenochtitlán",
         "Description": "<p>The Aztecs called chocolate \"Xocolatl.\" The upper-class drank it commonly while the lower-class saved it for celebrations. Cacao beans were used as currency. The Aztec king Montezuma II drank multiple cups of xocolatl everyday, and kept many cacao beans in reserve next to his gold.</p>",
         "Image": "https://live.staticflickr.com/8286/7593665168_5cec70cb21_b.jpg",
-        "Image Credit": "Kim Alaniz"
+        "Image Credit": "Kim Alaniz",
+        "Graph": "beanProduction-04.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -58,7 +61,8 @@
         "Title": "Spain",
         "Description": "<p>Chocolate first entered Europe through Spain in the earlier 1500's. Spain started importing chocolate in 1585.</p>",
         "Image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Spain_flag_300.png",
-        "Image Credit": ""
+        "Image Credit": "",
+        "Graph": "moneyBarGraph-02.jpg"
       },
       "geometry": {
         "coordinates": [

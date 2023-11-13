@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<title>Mapbox Scrollytelling</title>
+	<title>The History of Chocolate</title>
 	<meta name="description" content="Egyptian Pyramids" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -63,25 +63,13 @@
 				pitch: 45
 			});
 
-			map.on('load', () => {
-				map.addSource('data', {
-				type: 'geojson',
-				data: data
-				});
-				 
-				map.addLayer({
-				'id': 'pyramids-layer',
-				'type': 'circle',
-				'source': 'data',
-				//this is for the map marker
-				'paint': {
-				'circle-radius': 3,
-				'circle-stroke-width': 1,
-				'circle-color': 'black',
-				'circle-stroke-color': 'black'
-				}
-				});
-			});
+			for (const feature of data.features) {
+			  // create a HTML element for each feature
+			  const el = document.createElement('div');
+			  el.className = 'marker';
+			  // make a marker for each feature and add to the map
+			  new mapboxgl.Marker(el).setLngLat(feature.geometry.coordinates).addTo(map);
+			}
 
 			map.scrollZoom.disable();
 
@@ -121,6 +109,14 @@
 			 		description.className = "description";
 			 		description.innerHTML = p.properties.Description;
 			 		div.appendChild(description);
+			 	}
+
+			 	// graph
+			 	if(p.properties.Graph) {
+			 		var gr = document.createElement("img");
+			 		gr.className = "graph";
+			 		gr.src = p.properties.Graph;
+			 		div.appendChild(gr);
 			 	}
 
 			 	document.getElementById("article_container").appendChild(div);

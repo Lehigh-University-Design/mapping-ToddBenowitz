@@ -138,7 +138,8 @@ figure p {
 .step {
   margin: 0 auto 2rem auto;
   color: #fff;
-  background: transparent;
+  background: #fff;
+  margin-bottom: 60vh;
 }
 
 .step:last-child {
@@ -176,6 +177,19 @@ figure p {
 
 .step .description p:last-child {
   margin-bottom: 0;
+}
+
+.step .graph {
+  padding: .5em;
+}
+
+.marker {
+  &::after {
+    content: url('../beanICON-05.svg');
+    display: block;
+    height: 3em;
+    width: 3em;
+  }
 }
 
 /* mobile breakpoint */
