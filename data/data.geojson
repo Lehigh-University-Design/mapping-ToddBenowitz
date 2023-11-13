@@ -7,7 +7,6 @@
         "Description": "<p>The Olmec people were an ancient civilization believed to be the first to use cacao beans. Olmec pots called \"tecomates\" that date back to around 1500 BCE, were found to have traces of theobromine, a compound commonly found in chocolate.</p>",
         "Image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/316302/652249/main-image",
         "Image Credit": "",
-        "Graph": "MontezumaGraph-01.png",
         "Zoom": "1"
       },
       "geometry": {
@@ -25,8 +24,7 @@
         "Title": "Tikal",
         "Description": "<p>Mayans were an ancient civilization that used chocolate during important celebrations, transactions, and ceremonies. Almost all Mayans enjoyed chocolate with their meals, combining it with chili peppers, honey, or water. They'd drink it hot or cold, either way it was caffeniated.</p> ",
         "Image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cacao-moneda.jpg",
-        "Image Credit": "Tamorlan from WikiMedia",
-        "Graph": "CostofThings-03.jpg"
+        "Image Credit": "Tamorlan from WikiMedia"
       },
       "geometry": {
         "coordinates": [
@@ -44,7 +42,7 @@
         "Description": "<p>The Aztecs called chocolate \"Xocolatl.\" The upper-class drank it commonly while the lower-class saved it for celebrations. Cacao beans were used as currency. The Aztec king Montezuma II drank multiple cups of xocolatl everyday, and kept many cacao beans in reserve next to his gold.</p>",
         "Image": "https://live.staticflickr.com/8286/7593665168_5cec70cb21_b.jpg",
         "Image Credit": "Kim Alaniz",
-        "Graph": "beanProduction-04.jpg"
+        "Graph": "MontezumaGraph-01.png"
       },
       "geometry": {
         "coordinates": [
@@ -61,8 +59,7 @@
         "Title": "Spain",
         "Description": "<p>Chocolate first entered Europe through Spain in the earlier 1500's. Spain started importing chocolate in 1585.</p>",
         "Image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Spain_flag_300.png",
-        "Image Credit": "",
-        "Graph": "moneyBarGraph-02.jpg"
+        "Image Credit": ""
       },
       "geometry": {
         "coordinates": [
@@ -113,7 +110,8 @@
         "Title": "Europe",
         "Description": "<p>Cacao plantations, with enslaved workers, began popping up in order to feed Europe's hunger for chocolate.</p>",
         "Image": "https://live.staticflickr.com/2653/32170883384_4a1d64c8a5_b.jpg",
-        "Image Credit": "Alliance of Bioversity International and CIAT on Flickr.com"
+        "Image Credit": "Alliance of Bioversity International and CIAT on Flickr.com",
+        "Graph": "CostofThings-03.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -130,7 +128,8 @@
         "Title": "Ghana",
         "Description": "<p>Today, cacao farmers are extremely underpaid, so they use slaves on the farms. Some of these slaves are children. Due to these unpaid workers, Ghana is the second highest country in cacao production.</p>",
         "Image": "https://live.staticflickr.com/4730/25651592728_13a92ac7e0_b.jpg",
-        "Image Credit": "Climate Change, Agriculture and Food Security on Flickr.com"
+        "Image Credit": "Climate Change, Agriculture and Food Security on Flickr.com",
+        "Graph": "beanProduction-04.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -164,7 +163,8 @@
         "Title": "The Hershey Company Headquarters",
         "Description": "<p>The big chocolate brands, like Hershey and Mars, are underpaying cacao farmers, forcing the farmers to rely on cheap labor. Adult labor is more expensive than slavery or child labor.</p>",
         "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Chocolate_factory_in_Konya%2C_Turkey%2C_May_24%2C_2015.jpg/1200px-Chocolate_factory_in_Konya%2C_Turkey%2C_May_24%2C_2015.jpg?20191001150654",
-        "Image Credit": "Mark Lowen"
+        "Image Credit": "Mark Lowen",
+        "Graph": "moneyBarGraph-02.jpg"
       },
       "geometry": {
         "coordinates": [
