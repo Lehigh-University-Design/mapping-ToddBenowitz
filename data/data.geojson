@@ -3,101 +3,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Name/Title": "The Hershey Company Headquarters",
-        "Description": "The big chocolate brands, like Hershey, Nestle, and Mars, are underpaying cacao farmers, forcing the farmers to rely on cheap labor. Adult labor is more expensive.",
-        "Image": "",
-        "Image Credit": "",
-        "": " "
-      },
-      "geometry": {
-        "coordinates": [
-          -76.649043,
-          40.287567
-        ],
-        "type": "Point"
-      },
-      "id": "0798f35d5128d82fde6a0310a8924d1c"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name/Title": "Italy",
-        "Description": "Another European country that explored Central America and found cacao is Italy.",
-        "Image": "",
-        "Image Credit": "",
-        "": ""
-      },
-      "geometry": {
-        "coordinates": [
-          12.495264,
-          41.909943
-        ],
-        "type": "Point"
-      },
-      "id": "27dda5d6600ac48efd4a4e3a24f7f899"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name/Title": "Spain",
-        "Description": "Chocolate first entered Europe through Spain in the earlier 1500's. Spain started importing chocolate in 1585.",
-        "Image": "",
-        "Image Credit": "",
-        "": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -3.686972,
-          40.415564
-        ],
-        "type": "Point"
-      },
-      "id": "3da9c2bfafecf9aac9ba9b7d0f65f466"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name/Title": "France",
-        "Description": "Also France brought cacao to Europe from Central America. Eventually, chocolate is all over Europe.",
-        "Image": "",
-        "Image Credit": "",
-        "": ""
-      },
-      "geometry": {
-        "coordinates": [
-          2.345094,
-          48.858946
-        ],
-        "type": "Point"
-      },
-      "id": "467dceda32435443b10a3b66d74dd39b"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name/Title": "Côte d'Ivoire",
-        "Description": "The country with the most cacao production is Côte d'Ivoire. They also have the most cacao farms with child/slave labor.",
-        "Image": "",
-        "Image Credit": "",
-        "": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -5.674975,
-          7.483693
-        ],
-        "type": "Point"
-      },
-      "id": "5b88ea562a21f29e40e1bf7f9d0b1465"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name/Title": "Tres Zapotes",
-        "Description": "The Olmec people were an ancient civilization believed to be the first to use cacao beans. Discovered Olmec pots, called tecomates, dating back to around 1500 BCE, had traces of theobromine, a compound commonly found in chocolate.",
+        "Title": "Tres Zapotes",
+        "Description": "<p>The Olmec people were an ancient civilization believed to be the first to use cacao beans. Olmec pots called \"tecomates\" that date back to around 1500 BCE, were found to have traces of theobromine, a compound commonly found in chocolate.</p>",
         "Image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/316302/652249/main-image",
         "Image Credit": "",
-        "": ""
+        "Zoom": "1"
       },
       "geometry": {
         "coordinates": [
@@ -106,52 +16,15 @@
         ],
         "type": "Point"
       },
-      "id": "764f1dc0ab4d1114fb120e8ccc9fc61d"
+      "id": "018df53b2f83834c2c7bc679f5fcb399"
     },
     {
       "type": "Feature",
       "properties": {
-        "Name/Title": "Ghana",
-        "Description": "Today, cacao farmers are extremely underpaid, so they use slaves on the farms. Some of these slaves are children. Due to these unpaid workers, Ghana is the second highest country in cacao production.",
-        "Image": "",
-        "Image Credit": "",
-        "": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -0.939989,
-          8.124174
-        ],
-        "type": "Point"
-      },
-      "id": "a2a9e863c1aeee7d837f225aa479dd03"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name/Title": "Tenochtitlán",
-        "Description": "The Aztecs called chocolate \"Xocolatl.\" The upper-class drank it commonly while the lower-class saved it for celebrations. Cacao beans were used as currency. The Aztec king Montezuma II drank multiple cups of xocolatl everyday, and kept many cacao beans in reserve next to his gold.",
-        "Image": "https://live.staticflickr.com/8286/7593665168_5cec70cb21_b.jpg",
-        "Image Credit": "Kim Alaniz",
-        "": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -99.183542,
-          19.425853
-        ],
-        "type": "Point"
-      },
-      "id": "aa8c4673c2158b1cc6f489569f953401"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name/Title": "Tikal",
-        "Description": "Mayans were an ancient civilization that used chocolate during important celebrations, transactions, and ceremonies. Almost all Mayans enjoyed chocolate with their meals, combining it with chili peppers, honey, or water. They'd drink it hot or cold, either way it was caffeniated. ",
+        "Title": "Tikal",
+        "Description": "<p>Mayans were an ancient civilization that used chocolate during important celebrations, transactions, and ceremonies. Almost all Mayans enjoyed chocolate with their meals, combining it with chili peppers, honey, or water. They'd drink it hot or cold, either way it was caffeniated.</p> ",
         "Image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cacao-moneda.jpg",
-        "Image Credit": "Tamorlan from WikiMedia",
-        "": ""
+        "Image Credit": "Tamorlan from WikiMedia"
       },
       "geometry": {
         "coordinates": [
@@ -160,16 +33,83 @@
         ],
         "type": "Point"
       },
-      "id": "d45eabd49c5086fbed1ed8421423d0a4"
+      "id": "476bab66a5c2274eaaa4e361eccdb14b"
     },
     {
       "type": "Feature",
       "properties": {
-        "Name/Title": "Europe",
-        "Description": "Cacao plantations with enslaved workers began popping up in order to feed Europe's hunger for chocolate.",
-        "Image": "",
-        "Image Credit": "",
-        "": ""
+        "Title": "Tenochtitlán",
+        "Description": "<p>The Aztecs called chocolate \"Xocolatl.\" The upper-class drank it commonly while the lower-class saved it for celebrations. Cacao beans were used as currency. The Aztec king Montezuma II drank multiple cups of xocolatl everyday, and kept many cacao beans in reserve next to his gold.</p>",
+        "Image": "https://live.staticflickr.com/8286/7593665168_5cec70cb21_b.jpg",
+        "Image Credit": "Kim Alaniz"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.183542,
+          19.425853
+        ],
+        "type": "Point"
+      },
+      "id": "1a6be6c60021b929aaf51e91bc2d9e70"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Spain",
+        "Description": "<p>Chocolate first entered Europe through Spain in the earlier 1500's. Spain started importing chocolate in 1585.</p>",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Spain_flag_300.png",
+        "Image Credit": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -3.686972,
+          40.415564
+        ],
+        "type": "Point"
+      },
+      "id": "89985972dc5c9f9659459b31a10b9aaa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Italy",
+        "Description": "<p>Another European country that explored Central America and found cacao is Italy. Francesco Carletti, an Italian merchant and explorer, discovered cacao in El Salvador.</p>",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_Italy_%281946%E2%80%932003%29.png",
+        "Image Credit": ""
+      },
+      "geometry": {
+        "coordinates": [
+          12.495264,
+          41.909943
+        ],
+        "type": "Point"
+      },
+      "id": "06b73bd46144beb24957730a6c4aaef4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "France",
+        "Description": "<p>France also brought cacao to Europe from Central America. Eventually, chocolate was all over Europe.</p>",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_France_%28new%29.png",
+        "Image Credit": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.345094,
+          48.858946
+        ],
+        "type": "Point"
+      },
+      "id": "3cd738dd3dff65c835a5fe3a3e6bda21"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Europe",
+        "Description": "<p>Cacao plantations, with enslaved workers, began popping up in order to feed Europe's hunger for chocolate.</p>",
+        "Image": "https://live.staticflickr.com/2653/32170883384_4a1d64c8a5_b.jpg",
+        "Image Credit": "Alliance of Bioversity International and CIAT on Flickr.com"
       },
       "geometry": {
         "coordinates": [
@@ -178,7 +118,58 @@
         ],
         "type": "Point"
       },
-      "id": "d9690ea6766077ba07b6afb02e944568"
+      "id": "e9f6ca1717f73d2d3db2890c81072834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Ghana",
+        "Description": "<p>Today, cacao farmers are extremely underpaid, so they use slaves on the farms. Some of these slaves are children. Due to these unpaid workers, Ghana is the second highest country in cacao production.</p>",
+        "Image": "https://live.staticflickr.com/4730/25651592728_13a92ac7e0_b.jpg",
+        "Image Credit": "Climate Change, Agriculture and Food Security on Flickr.com"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.939989,
+          8.124174
+        ],
+        "type": "Point"
+      },
+      "id": "47ee43f72d1df2d6a40c241af3aeb567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Côte d'Ivoire",
+        "Description": "<p>The country with the most cacao production is Côte d'Ivoire. They also have the most cacao farms with child/slave labor.</p>",
+        "Image": "https://live.staticflickr.com/2774/4034280888_271f171f4f_b.jpg",
+        "Image Credit": "Nestlé on Flickr.com"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.674975,
+          7.483693
+        ],
+        "type": "Point"
+      },
+      "id": "9621c2a06a354a82940672f32a4c4a7c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "The Hershey Company Headquarters",
+        "Description": "<p>The big chocolate brands, like Hershey and Mars, are underpaying cacao farmers, forcing the farmers to rely on cheap labor. Adult labor is more expensive than slavery or child labor.</p>",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Chocolate_factory_in_Konya%2C_Turkey%2C_May_24%2C_2015.jpg/1200px-Chocolate_factory_in_Konya%2C_Turkey%2C_May_24%2C_2015.jpg?20191001150654",
+        "Image Credit": "Mark Lowen"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.649043,
+          40.287567
+        ],
+        "type": "Point"
+      },
+      "id": "b1dbe18e13070f5603f1014860497de0"
     }
   ],
   "type": "FeatureCollection"
